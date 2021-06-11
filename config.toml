@@ -1,4 +1,5 @@
+baseUrl="https://sineau.github.io/unstelling-topos/"
 theme="ananke"
 languageCode="en-US"
 title="unsettling topos"
-baseUrl="/"
+publishDir="docs"
